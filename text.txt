@@ -1,0 +1,51 @@
+Login:
+1. User Name/EmailId
+2. Password
+3. capcha Part
+4. Sumbit button
+
+Regiistration:
+1. First Name
+2. Middle Name
+3. Last Name
+4. Email id
+5. Phone number
+6. Gender
+7. User Name
+8. Password
+9. Confirm Password
+11. Capcha
+12. Submit
+
+Contact Us 
+1.Company name
+2.Company address
+3.Contact Number
+4.Maps
+5.Companny Email Address
+
+Feedback:
+1. Name
+2. Email Id
+4. Feedback:- comment box or we can add google form
+
+hotel & Homestay: 
+1. Country 
+2. State
+3. City 
+4. Check in date
+5. check out date
+6. Room & Guests/ 1BHK/ 2BHK.....
+7. Select Hotels and select home
+8. Confirm 
+
+Train/Buses/Cabs/Flights:
+1. From city, country departure 
+2. To city, country arrival
+3. Departure date
+4. Return date for (flights) for round trip
+5. Available flights/Trains/Buses
+6. Seats for Train/Flight/Buses
+7. Confirm
+
+Home: Slides showw with around 15-20 images.
